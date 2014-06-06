@@ -1,0 +1,3 @@
+Important! => Use this only if you don't sync repos using my manifest (github.com/Alberto96/android)
+
+Copy local_manifest.xml to your ".repo" folder and do a "repo sync".
